@@ -13,7 +13,6 @@ session_start();
 <div class="container">
 <div class="navbar">
 <b><a href="home.php">HOME</a></b>
-<a href="logout.php" id="sair">SAIR</a>
 </div>
 <div class="home">
 <p><h2>Bem-Vindo <?php echo $_SESSION["user"]; ?><h2></p>
