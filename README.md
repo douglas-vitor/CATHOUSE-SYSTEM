@@ -5,8 +5,8 @@
 
 *Removido:*
 
--*Proteções;*
+- *Proteções;*
 
--*Sistema de login;*
+- *Sistema de login;*
 
--*Funções não utilizadas no curso.*
+- *Funções não utilizadas no curso.*
