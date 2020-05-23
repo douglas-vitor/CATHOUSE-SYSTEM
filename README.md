@@ -1,12 +1,12 @@
 # CATHOUSE-SYSTEM-DEMO
 ###### Material complementar do curso de automação utilizando raspberry, projeto 1 do curso.
-*SIMPLES SISTEMA DE AUTOMAÇÃO RESIDENCIAL BASEADO NO SISTEMA ORIGINAL CATHOUSE 1.0*
+*Simples sistema de automação residencial baseado no sistema original CatHouse 1.0*
 
 
-*(REMOVIDO:*
+*(Removido:*
 
-*PROTEÇÕES;*
+*Proteções;*
 
-*SISTEMA DE LOGIN;*
+*Sistema de login;*
 
-*FUNÇÕES NÃO UTILIZADAS NO CURSO.)*
+*Funções não utilizadas no curso.)*
